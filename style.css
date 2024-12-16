@@ -25,6 +25,11 @@ body, html {
     margin-bottom: 10px;
 }
 
+h1 {
+    display: none;
+}
+
+
 #player-input {
     display: flex;
     align-items: center;
